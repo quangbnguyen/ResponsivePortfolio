@@ -1,0 +1,119 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  color: #2d3c49;
+  font-weight: 400;
+}
+
+.header {
+  margin-left: 60px;
+  margin-right: 60px;
+  margin-bottom: 10px;
+  height: 100px;
+}
+
+.symbol {
+  width: 50%;
+  float: left;
+}
+
+.logo {
+  border: 8px solid #02b3e4;
+  border-radius: 100%;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  padding-top: 20px;
+  color: #02b3e4;
+  font-size: 40px;
+  font-weight: bold;
+  margin-top: 17px;
+}
+
+.name {
+  text-align: right;
+  width: 50%;
+  float: right;
+  height: 100px;
+}
+
+.full {
+  margin-bottom: 10px;
+  font-family: 'Lato', sans-serif;
+  font-size: 45px;
+  font-weight: 100;
+}
+
+.job {
+  margin-top: 5px;
+  margin-bottom: 10px;
+  font-size: 20px;
+  text-transform: uppercase;
+  font-weight: 400;
+}
+
+hr {
+  margin: 40px 60px 30px 60px;
+  border-width: 4px;
+  border-bottom-style: none;
+  border-right-style: none;
+  color: #7d97ad;
+}
+
+.pic-container {
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+.main-pic {
+  width: 1143px;
+  height: 450px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.featured {
+  margin-top: 20px;
+  margin-left: 60px;
+  margin-right: 25px;
+}
+
+.featured-title {
+  font-size: 30px;
+  text-decoration: overline;
+  color: #7d97ad;
+  margin-bottom: 20px;
+}
+
+.projects {
+  margin-left: 60px;
+  margin-bottom: 25px;
+  margin-right: 60px;
+}
+
+.recipe, .list, .awesome {
+  width: 400px;
+  display: inline-block;
+}
+
+.projects div h2 {
+  text-transform: uppercase;
+  font-family: sans-serif;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.projects div a {
+  word-wrap: break-word;
+  text-align: center;
+  color: #7d97ad;
+}
+
+.proj-image {
+  width: 360px;
+  height: 250px;
+}

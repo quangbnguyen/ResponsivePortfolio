@@ -1,0 +1,374 @@
+@media screen and (max-width: 450px) {
+  .header {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .symbol {
+    width: 100%;
+  }
+
+  .logo {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .name {
+    width: 100%;
+    text-align: center;
+  }
+
+  .full {
+    font-size: 35px;
+  }
+
+  .job {
+    font-size: 15px;
+  }
+
+  hr {
+    width: 320px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .pic-container {
+    display: none;
+  }
+
+  .featured {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .featured-title {
+    font-size: 25px;
+    text-align: center;
+  }
+
+  .projects {
+    width: 320px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .recipe, .list, .todo {
+    display: block;
+    width: 320px;
+  }
+
+  .projects div img {
+    width: 320px;
+  }
+
+  .projects div p {
+    width: 320px;
+  }
+  
+  .list, .todo {
+    margin-top: 70px;
+  }
+}
+
+
+@media screen and (min-width: 451px) and (max-width: 504px) {
+  .header {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .symbol {
+    width: 100%;
+  }
+
+  .logo {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .name {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 15px;
+  }
+
+  .full {
+    font-size: 40px;
+  }
+
+  .job {
+    font-size: 20px;
+  }
+
+  hr {
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .pic-container {
+    display: none;
+  }
+
+  .featured {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .featured-title {
+    font-size: 30px;
+    text-align: center;
+  }
+
+  .projects {
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .recipe, .list, .todo {
+    display: block;
+  }
+
+  .projects div img {
+    width: 350px;
+  }
+
+  .list, .todo {
+    margin-top: 70px;
+  }
+}
+
+@media screen and (min-width: 505px) and (max-width: 759px) {
+  .header {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .symbol {
+    width: 100%;
+  }
+
+  .logo {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .name {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 25px;
+  }
+
+  .full {
+    font-size: 45px;
+  }
+
+  .job {
+    font-size: 20px;
+  }
+
+  hr {
+    width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .pic-container {
+    margin-left: auto;
+    margin-right: auto;
+    height: 25%;
+  }
+  
+  .pic-container img {
+    width: 550px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .featured {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .featured-title {
+    font-size: 30px;
+    text-align: center;
+  }
+
+  .projects {
+    width: 360px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .recipe, .list, .todo {
+    display: block;
+  }
+
+  .projects div img {
+    width: 360px;
+  }
+
+  .list, .todo {
+    margin-top: 70px;
+  }
+}
+
+@media screen and (min-width: 760px) and (max-width: 1199px) {
+  .header {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .symbol {
+    width: 100%;
+  }
+
+  .logo {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .name {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 25px;
+  }
+
+  .full {
+    font-size: 45px;
+  }
+
+  .job {
+    font-size: 20px;
+  }
+
+  hr {
+    width: 743px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .pic-container {
+    margin-left: auto;
+    margin-right: auto;
+    height: 25%;
+  }
+  
+  .pic-container img {
+    width: 743px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .featured {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .featured-title {
+    font-size: 30px;
+    text-align: center;
+  }
+
+  .projects {
+    width: 360px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .recipe, .list, .todo {
+    display: block;
+  }
+
+  .projects div img {
+    width: 360px;
+  }
+
+  .list, .todo {
+    margin-top: 70px;
+  }
+}
+
+
+@media screen and (min-width: 1200px) {
+  .header {
+    width: 1080px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  /* .symbol {
+    width: 100%;
+  } */
+
+  /* .logo {
+    margin-left: auto;
+    margin-right: auto;
+  } */
+
+  /* .name {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 25px;
+  } */
+
+  .full {
+    font-size: 45px;
+  }
+
+  .job {
+    font-size: 20px;
+  }
+
+  hr {
+    width: 1080px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .pic-container {
+    margin-left: auto;
+    margin-right: auto;
+    height: 25%;
+  }
+  
+  .pic-container img {
+    width: 1080px;
+    height: 360px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .featured {
+    width: 1080px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .featured-title {
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 30px;
+  }
+
+  .projects {
+    width: 1089px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .projects div {
+    width: 360px;
+  }
+  
+  .projects div img {
+    width: 360px;
+  }
+
+}
+
+
